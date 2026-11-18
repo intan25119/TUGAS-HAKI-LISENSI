@@ -24,4 +24,4 @@ dilindungi undang-undang.
 muda dengan gambar kelapa yang minimalis serta daun yang indah.
 ○ Fungsi Perlindungan: Mencegah pengembang lain membuat Web pemesanan
 serupa dengan nama atau logo yang membingungkan konsumen.
-<img width="226" height="226" alt="clip" src="https://github.com/user-attachments/assets/418d8c04-db9e-4130-b10c-64793cda0300" />
+<img width="400" height="400" alt="clip" src="https://github.com/user-attachments/assets/418d8c04-db9e-4130-b10c-64793cda0300" />
