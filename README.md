@@ -11,6 +11,7 @@ pedagang UMKM dalam pemesanan agar lebih cepat dan tidak menimbulkan anteran
 yang panjang.
 
 <h1 align="center">B. Analisis Perlindungan HAKI Produk</h1>
+
 1. Hak Cipta (Copyright):
 ○ Objek Yang Dilindungi:
 <p>■ Kode Sumber (Source Code) Visual code untuk antarmuka pengguna (frontend) dan REST API Node.js (backend).</p>
