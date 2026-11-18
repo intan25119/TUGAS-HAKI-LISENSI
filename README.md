@@ -13,12 +13,9 @@ yang panjang.
 <h1 align="center">B. Analisis Perlindungan HAKI Produk</h1>
 1. Hak Cipta (Copyright):
 ○ Objek Yang Dilindungi:
-■ <p>Kode Sumber (Source Code) Visual code untuk antarmuka pengguna
-(frontend) dan REST API Node.js (backend).</p>
-■ Desain Antarmuka (UI/UX Design) yang dibuat menggunakan Canva (file
-layout, skema warna, dan ikon kustom).
-■ Dokumen Petunjuk Penggunaan (User Manual) berbentuk Web untuk
-pengguna.
+<p>■ Kode Sumber (Source Code) Visual code untuk antarmuka pengguna (frontend) dan REST API Node.js (backend).</p>
+<p>■ Desain Antarmuka (UI/UX Design) yang dibuat menggunakan Canva (file layout, skema warna, dan ikon kustom).</p>
+<p>■ Dokumen Petunjuk Penggunaan (User Manual) berbentuk Web untuk pengguna.</p>
 ○ Pernyataan Hak Cipta: Hak Cipta © 2026 oleh Intan Sagita Lestari. Seluruh hak
 dilindungi undang-undang.
 2. Merek (Trademark):
