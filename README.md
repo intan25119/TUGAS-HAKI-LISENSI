@@ -18,6 +18,7 @@ yang panjang.
 <p>■ Dokumen Petunjuk Penggunaan (User Manual) berbentuk Web untuk pengguna.</p>
 ○ Pernyataan Hak Cipta: Hak Cipta © 2026 oleh Intan Sagita Lestari. Seluruh hak
 dilindungi undang-undang.
+
 2. Merek (Trademark):
 ○ Nama Brand: Saung Sambal
 ○ Logo & Elemen Visual: Logo ikon berbentuk lingkaran, berwarna hijau tua dan hijau
